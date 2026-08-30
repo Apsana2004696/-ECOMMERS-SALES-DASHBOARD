@@ -61,6 +61,6 @@ To build an interactive business intelligence dashboard that converts e-commerce
 
 ## 👩‍💻 Author
 
-**Sheikh Sana**
+**Shaik Apsana**
 
 MCA Graduate | Aspiring Data Analyst
